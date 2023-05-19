@@ -1,1 +1,1 @@
-require("seed-tree")
+require("toshokan.seed-tree")
