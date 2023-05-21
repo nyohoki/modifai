@@ -5,7 +5,7 @@ data:extend({
 		name = "seed-tree",
 		icon = "__modifai__/gurafikku/aikon/seed-tree.png",
 		icon_size = 32,
-		subgroup = "intermediate-product",
+		subgroup = "nyohoki-intermeditates",
 		order = "seed-tree",
 		place_result = "tree-04",
 		stack_size = 100
@@ -15,7 +15,7 @@ data:extend({
 		name = "seed-tree",
 		icon = "__modifai__/gurafikku/aikon/seed-tree.png",
 		icon_size = 32,
-		subgroup = "",
+		subgroup = "nyohoki-intermeditates",
 		order = "seed-tree",
 		energy_required = 0.1,
 		enabled = true,
