@@ -1,8 +1,7 @@
 data:extend({
-	
 	{
-		type = "item",
 		name = "seed-tree",
+		type = "item",
 		icon = "__modifai__/gurafikku/aikon/seed-tree.png",
 		icon_size = 32,
 		subgroup = "nyohoki-intermeditates",
@@ -11,8 +10,8 @@ data:extend({
 		stack_size = 100
 	},
 	{
-		type = "recipe",
 		name = "seed-tree",
+		type = "recipe",
 		icon = "__modifai__/gurafikku/aikon/seed-tree.png",
 		icon_size = 32,
 		subgroup = "nyohoki-intermeditates",
@@ -37,3 +36,5 @@ data:extend({
 	
 	}
 })
+
+data.raw.item["wood"].stack_size = 100
