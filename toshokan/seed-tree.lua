@@ -4,7 +4,7 @@ data:extend({
 		type = "item",
 		icon = "__modifai__/gurafikku/aikon/seed-tree.png",
 		icon_size = 32,
-		subgroup = "nyohoki-intermeditates",
+		subgroup = "nyohoki-intermediates",
 		order = "seed-tree",
 		place_result = "tree-04",
 		stack_size = 100
@@ -14,7 +14,7 @@ data:extend({
 		type = "recipe",
 		icon = "__modifai__/gurafikku/aikon/seed-tree.png",
 		icon_size = 32,
-		subgroup = "nyohoki-intermeditates",
+		subgroup = "nyohoki-intermediates",
 		order = "seed-tree",
 		energy_required = 0.1,
 		enabled = true,
@@ -36,5 +36,3 @@ data:extend({
 	
 	}
 })
-
-data.raw.item["wood"].stack_size = 100
