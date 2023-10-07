@@ -1,3 +1,4 @@
+local fv = "2MJ"
 data:extend({
 	{
 		name = "nfc-1",
@@ -14,7 +15,7 @@ data:extend({
 		order = "nfc-1",
 		stack_size = 100,
 		fuel_category = "chemical",
-		fuel_value = "36MJ",
+		fuel_value = fv,
 		fuel_acceleration_multiplier = 1.6,
 		fuel_top_speed_multiplier = 1.15,
 		fuel_glow_color = nyohoki_iro.akai
@@ -31,10 +32,10 @@ data:extend({
 			}
 		},
 		subgroup = "nyohoki-sozai",
-		order = "nfc-1",
+		order = "nfc-2",
 		stack_size = 100,
 		fuel_category = "chemical",
-		fuel_value = "36MJ",
+		fuel_value = fv,
 		fuel_acceleration_multiplier = 1.6,
 		fuel_top_speed_multiplier = 1.15,
 		fuel_glow_color = nyohoki_iro.orenji
@@ -51,10 +52,10 @@ data:extend({
 			}
 		},
 		subgroup = "nyohoki-sozai",
-		order = "nfc-1",
+		order = "nfc-3",
 		stack_size = 100,
 		fuel_category = "chemical",
-		fuel_value = "36MJ",
+		fuel_value = fv,
 		fuel_acceleration_multiplier = 1.6,
 		fuel_top_speed_multiplier = 1.15,
 		fuel_glow_color = nyohoki_iro.ki
@@ -71,10 +72,10 @@ data:extend({
 			}
 		},
 		subgroup = "nyohoki-sozai",
-		order = "nfc-1",
+		order = "nfc-4",
 		stack_size = 100,
 		fuel_category = "chemical",
-		fuel_value = "36MJ",
+		fuel_value = fv,
 		fuel_acceleration_multiplier = 1.6,
 		fuel_top_speed_multiplier = 1.15,
 		fuel_glow_color = nyohoki_iro.midori
@@ -91,10 +92,10 @@ data:extend({
 			}
 		},
 		subgroup = "nyohoki-sozai",
-		order = "nfc-1",
+		order = "nfc-5",
 		stack_size = 100,
 		fuel_category = "chemical",
-		fuel_value = "36MJ",
+		fuel_value = fv,
 		fuel_acceleration_multiplier = 1.6,
 		fuel_top_speed_multiplier = 1.15,
 		fuel_glow_color = nyohoki_iro.ao
@@ -111,10 +112,10 @@ data:extend({
 			}
 		},
 		subgroup = "nyohoki-sozai",
-		order = "nfc-1",
+		order = "nfc-6",
 		stack_size = 100,
 		fuel_category = "chemical",
-		fuel_value = "36MJ",
+		fuel_value =  fv,
 		fuel_acceleration_multiplier = 1.6,
 		fuel_top_speed_multiplier = 1.15,
 		fuel_glow_color = nyohoki_iro.murasaki
@@ -131,10 +132,10 @@ data:extend({
 			}
 		},
 		subgroup = "nyohoki-sozai",
-		order = "nfc-1",
+		order = "nfc-7",
 		stack_size = 100,
 		fuel_category = "chemical",
-		fuel_value = "36MJ",
+		fuel_value = fv,
 		fuel_acceleration_multiplier = 1.6,
 		fuel_top_speed_multiplier = 1.15,
 		fuel_glow_color = nyohoki_iro.shiro
@@ -151,10 +152,10 @@ data:extend({
 			}
 		},
 		subgroup = "nyohoki-sozai",
-		order = "nfc-1",
+		order = "nfc-8",
 		stack_size = 100,
 		fuel_category = "chemical",
-		fuel_value = "36MJ",
+		fuel_value = fv,
 		fuel_acceleration_multiplier = 1.6,
 		fuel_top_speed_multiplier = 1.15,
 		fuel_glow_color = nyohoki_iro.kuro
@@ -171,10 +172,10 @@ data:extend({
 			}
 		},
 		subgroup = "nyohoki-sozai",
-		order = "nfc-1",
+		order = "nfc-9",
 		stack_size = 100,
 		fuel_category = "chemical",
-		fuel_value = "36MJ",
+		fuel_value = fv,
 		fuel_acceleration_multiplier = 1.6,
 		fuel_top_speed_multiplier = 1.15,
 		fuel_glow_color = nyohoki_iro.usuzakura

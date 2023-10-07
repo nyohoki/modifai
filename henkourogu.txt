@@ -1,0 +1,15 @@
+added base ores, base resouces, base ore time, resource autoplace
+reorganised files. added henkou folder for base overrides
+added locale files
+disabled pink ore (sakurite) for now. test gameplay with 8 base resources
+modified base game military items
+
+stone stack size cahnged to 100
+beacon area changed to 4
+stack filter inserter filter count change to 4
+linked chest stacksize and inventory size changed to 50
+
+landfill recipe ingredients changed to stone qty 10
+landfill places down grass-1
+
+underground pipe distance changed to 11

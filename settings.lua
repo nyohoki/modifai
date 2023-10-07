@@ -1,5 +1,12 @@
 data:extend({
 	{
+		name = "sozai",
+		type = "bool-setting",
+		order = "00000001",
+		setting_type = "startup",
+		default_value = true
+	},
+	{
 		name = "magazine-size",
 		type = "int-setting",
 		order = "mil-0001",

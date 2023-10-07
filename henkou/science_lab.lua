@@ -1,0 +1,9 @@
+-- data.raw["lab"]["lab"].working_sound =
+	-- {
+		-- sound =
+			-- {
+				-- filename = "__nyohoki_modeifai__/onkyou/caramelldansen.ogg",
+				-- volume = 0.4
+			-- },
+		-- audible_distance_modifier = 0.7,
+	-- }

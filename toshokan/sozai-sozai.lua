@@ -13,7 +13,7 @@ data:extend(
 				base_density = 10,
 				reqular_rq_factor_multiplier = 1.10,
 				starting_rq_factor_multiplier = 1.5,
-				candiate_spot_count = 22,
+				candiate_spot_count = 22
 			}
 		),
 		resource(
@@ -29,7 +29,7 @@ data:extend(
 				base_density = 10,
 				reqular_rq_factor_multiplier = 1.10,
 				starting_rq_factor_multiplier = 1.5,
-				candiate_spot_count = 22,
+				candiate_spot_count = 22
 			}
 		),
 		resource(
@@ -45,7 +45,7 @@ data:extend(
 				base_density = 10,
 				reqular_rq_factor_multiplier = 1.10,
 				starting_rq_factor_multiplier = 1.5,
-				candiate_spot_count = 22,
+				candiate_spot_count = 22
 			}
 		),
 		resource(
@@ -61,7 +61,7 @@ data:extend(
 				base_density = 10,
 				reqular_rq_factor_multiplier = 1.10,
 				starting_rq_factor_multiplier = 1.5,
-				candiate_spot_count = 22,
+				candiate_spot_count = 22
 			}
 		),
 		resource(
@@ -77,7 +77,7 @@ data:extend(
 				base_density = 10,
 				reqular_rq_factor_multiplier = 1.10,
 				starting_rq_factor_multiplier = 1.5,
-				candiate_spot_count = 22,
+				candiate_spot_count = 22
 			}
 		),
 		resource(
@@ -93,7 +93,7 @@ data:extend(
 				base_density = 10,
 				reqular_rq_factor_multiplier = 1.10,
 				starting_rq_factor_multiplier = 1.5,
-				candiate_spot_count = 22,
+				candiate_spot_count = 22
 			}
 		),
 		resource(
@@ -109,7 +109,7 @@ data:extend(
 				base_density = 10,
 				reqular_rq_factor_multiplier = 1.10,
 				starting_rq_factor_multiplier = 1.5,
-				candiate_spot_count = 22,
+				candiate_spot_count = 22
 			}
 		),
         	resource(
@@ -125,7 +125,7 @@ data:extend(
 				base_density = 10,
 				reqular_rq_factor_multiplier = 1.10,
 				starting_rq_factor_multiplier = 1.5,
-				candiate_spot_count = 22,
+				candiate_spot_count = 22
 			}
 		),
 		resource(
@@ -141,7 +141,7 @@ data:extend(
 				base_density = 10,
 				reqular_rq_factor_multiplier = 1.10,
 				starting_rq_factor_multiplier = 1.5,
-				candiate_spot_count = 22,
+				candiate_spot_count = 22
 			}
 		),
 	}

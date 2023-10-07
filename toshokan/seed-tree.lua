@@ -27,8 +27,8 @@ data:extend({
 		},
 		results = {
 			{
-				type = "item",
 				name = "seed-tree",
+				type = "item",
 				amount_min = 1,
 				amount_max = 4
 			}
