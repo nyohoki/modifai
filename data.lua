@@ -21,6 +21,9 @@ require("toshokan.ore-iron")
 
 require("toshokan.vanilla_recipes")
 
+require("toshokan.dev.aetherite")
+
+
 
 if settings.startup["sozai"].value == true then
 	require("toshokan.sozai-autoplace")

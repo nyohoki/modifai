@@ -144,5 +144,21 @@ data:extend(
 				candiate_spot_count = 22
 			}
 		),
+		resource(
+			{
+				name = "aetherite",
+				order = "b",
+				map_color = nyohoki_iro.usuzakura,
+				mining_time = 1,
+				walking_sound = nil,
+				mining_visualisation_tint = nyohoki_iro.usuzakura
+			},
+			{
+				base_density = 10,
+				reqular_rq_factor_multiplier = 1.10,
+				starting_rq_factor_multiplier = 1.5,
+				candiate_spot_count = 22
+			}
+		)
 	}
 )

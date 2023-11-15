@@ -47,6 +47,11 @@ fairy_mpg = {
 				frequency = "very-high",
 				size = "very-big",
 				richness = "very-good"
+			},
+			["aetherite"] = {
+				frequency = "very-high",
+				size = "very-big",
+				richness = "very-good"
 			}
 		},
 		water = 0.5,

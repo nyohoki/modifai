@@ -8,7 +8,7 @@ data:extend({
 				icon = "__modifai__/gurafikku/aikon/nfc.png",
 				icon_size = 1280,
 				icon_scale = 0.025,
-				tint = nyohoki_iro.akai
+				tint = nyohoki_iro.akai 
 			}
 		},
 		subgroup = "nyohoki-sozai",

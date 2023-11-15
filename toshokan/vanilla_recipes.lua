@@ -24,7 +24,7 @@ data:extend({
 			{
 				name = "iron-ore",
 				type = "item",
-				amount = 2
+				amount = 3
 			}
 		}
 	},
@@ -53,7 +53,7 @@ data:extend({
 			{
 				name = "copper-ore",
 				type = "item",
-				amount = 2
+				amount = 3
 			}
 		}
 	},
@@ -82,7 +82,7 @@ data:extend({
 			{
 				name = "stone",
 				type = "item",
-				amount = 2
+				amount = 3
 			}
 		}
 	},
@@ -111,7 +111,7 @@ data:extend({
 			{
 				name = "coal",
 				type = "item",
-				amount = 2
+				amount = 3
 			}
 		}
 	},
