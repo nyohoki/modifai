@@ -1,7 +1,6 @@
 require("jankushon")
 require("kansuu")
 
-require("toshokan.sozai")
 
 require("toshokan.group")
 
