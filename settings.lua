@@ -15,6 +15,13 @@ data:extend(
 			default_value = "false"
 		},
 		{
+			type = "bool-setting",
+			name = "nightmare",
+			order = "tbn-nm",
+			setting_type = "runtime-global",
+			default_value = "false"
+		},
+		{
 			type = "int-setting",
 			name = "sky_light",
 			order = "tbn-1",
