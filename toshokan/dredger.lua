@@ -30,7 +30,7 @@ data:extend({
 			{
 				name = "steel-plate",
 				type = "item",
-				amount = 4
+				amount = 10
 			}
 		},
 		results = {

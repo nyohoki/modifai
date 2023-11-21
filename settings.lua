@@ -16,8 +16,8 @@ data:extend(
 		},
 		{
 			type = "int-setting",
-			name = "sky_light"
-			order = "tbn-1"
+			name = "sky_light",
+			order = "tbn-1",
 			setting_type = "runtime-global",
 			default_value = 255,
 			minium_value = 0,
@@ -34,7 +34,7 @@ data:extend(
 		},
 		{
 			type = "string-setting",
-			name = lamp_lux",
+			name = "lamp_lux",
 			order = "tbn-3",
 			setting_type = "startup",
 			default_value = 0.9,
