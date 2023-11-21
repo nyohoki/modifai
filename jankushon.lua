@@ -14,7 +14,8 @@ point1_0 = {
 	"0.9",
 	"1.0"
 }
-
+gsn = game.surface.nauvis
+lux = settings.global["sky_light"].value 
 --		item group and sub group
 ng = "nyohoki_group"
 nt = "nyohoki_tools"
