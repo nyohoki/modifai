@@ -16,7 +16,7 @@ point1_0 = {
 }
 -- gsn = game.surface.nauvis
 -- lux = settings.global["sky_light"].value 
---		item group and sub group
+--[[ item group and sub group
 ng = "nyohoki_group"
 nt = "nyohoki_tools"
 nc = "nyohoki_crystal"
@@ -54,75 +54,116 @@ card_10 = "kaado-10"
 card_11 = "kaado-11"
 card_12 = "kaado-12"
 card_13 = "kaado-13"
+]]
 
 
-
---		recipe ingredients and results
+--[[ recipe ingredients and results
 nfcr_1ia = 1
 nfcr_1ra = 1
 
 op_pr1	= 0.13
 op_pr2	= 0.42
 op_pr3	= 0.88
-
+]]
 --		technology
 nyohoki.tech = {}
-nyohoki.tech.almcpus =
-	{		-- all science packs, 1 each
-		{
-			name = "automation-science-pack",
-			amount = 1
-		},
-		{
-			name = "logistic-science-pack",
-			amount = 1
-		},
-		{
-			name = "military-science-pack",
-			amount = 1
-		},
-		{
-			name = "chemical-science-pack",
-			amount = 1
-		},
-		{
-			name = "production-science-pack",
-			amount = 1
-		},
-		{
-			name = "utility-science-pack",
-			amount = 1
-		},
-		{
-			name = "space-science-pack",
-			amount = 1
-		},
+nyohoki.tech.asp = {
+	{
+		name = "automation-science-pack",
+		amount = 1
 	}
+}
+nyohoki.tech.lsp = {
+	{
+		name = "logistic-science-pack",
+		amount = 1
+	}
+}
+nyohoki.tech.msp = {
+	{
+		name = "military-science-pack",
+		amount = 1
+	}
+}
+nyohoki.tech.csp = {
+	{
+		name = "chemical-science-pack",
+		amount = 1
+	}
+}
+nyohoki.tech.psp = {
+	{
+		name = "production-science-pack",
+		amount = 1
+	}
+}
+nyohoki.tech.usp = {
+	{
+		name = "utility-science-pack",
+		amount = 1
+	}
+}
+nyohoki.tech.ssp = {
+	{
+		name = "space-science-pack",
+		amount = 1
+	}
+}
+nyohoki.tech.almcpus = {
+	{
+		name = "automation-science-pack",
+		amount = 1
+	},
+	{
+		name = "logistic-science-pack",
+		amount = 1
+	},
+	{
+		name = "military-science-pack",
+		amount = 1
+	},
+	{
+		name = "chemical-science-pack",
+		amount = 1
+	},
+	{
+		name = "production-science-pack",
+		amount = 1
+	},
+	{
+		name = "utility-science-pack",
+		amount = 1
+	},
+	{
+		name = "space-science-pack",
+		amount = 1
+	}
+}
 --[[nyohoki.crystal.pictures_1 =
 	{
 		{
-			filename = "__nyohoki_modeifai__/gurafikku/aikon/fc_1-1.png",
+			filename = "__modifai__/gurafikku/aikon/fc_1-1.png",
 			height = 320,
 			width = 320,
 			scale = 0.05,
 			--tint = 
 		},
 		{
-			filename = "__nyohoki_modeifai__/gurafikku/aikon/fc_1-2.png",
+			filename = "__modifai__/gurafikku/aikon/fc_1-2.png",
 			height = 320,
 			width = 320,
 			scale = 0.05,
 			--tint = 
 		},
 		{
-			filename = "__nyohoki_modeifai__/gurafikku/aikon/fc_1-3.png",
+			filename = "__modifai__/gurafikku/aikon/fc_1-3.png",
 			height = 320,
 			width = 320,
 			scale = 0.05,
 			--tint = 
 		},
 		{
-			filename = "__nyohoki_modeifai__/gurafikku/aikon/fc_1-4.png",
+			filename = "__modifai__/gurafikku/aikon/fc_1-4.png",
 			height = 320,
 			width = 320,
 			scale = 0.05,
@@ -132,211 +173,213 @@ nyohoki.tech.almcpus =
 --]]
 --		icons
 --	base resource icon
-nfci = "__nyohoki_modeifai__/gurafikku/aikon/nfc.png"
+nfci = "__modifai__/gurafikku/aikon/nfc.png"
 nfcisi = 1280
 nfcisc = 0.025
 
-plus_1 = 
-	{
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/+1.png",
-		icon_size = 32
-	}
-plus_2 = 
-	{
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/+2.png",
-		icon_size = 32
-	}	
-plus_3 = 
-	{
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/+3.png",
-		icon_size = 32
-	}
+nyohoki_icon = {
+	icon = "__modifai__/gurafikku/aikon/nyohoki_icon.png",
+	icon_size = 640
+	icon_scale = 0.05
+}
+plus_1 = {
+	icon = "__modifai__/image/icon/+1.png",
+	icon_size = 32
+}
+plus_2 = {
+	icon = "__modifai__/image/icon/+2.png",
+	icon_size = 32
+}	
+plus_3 = {
+	icon = "__modifai__/image/icon/+3.png",
+	icon_size = 32
+}
 
--- cluster icons
+--[[ cluster icons
 cluster_fire_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/cluster_fire.png",
+		icon = "__modifai__/gurafikku/aikon/cluster_fire.png",
 		icon_size = 32
 	}
 cluster_earth_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/cluster_earth.png",
+		icon = "__modifai__/gurafikku/aikon/cluster_earth.png",
 		icon_size = 32
 	}
 cluster_water_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/cluster_water.png",
+		icon = "__modifai__/gurafikku/aikon/cluster_water.png",
 		icon_size = 32
 	}
 cluster_wind_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/cluster_wind.png",
+		icon = "__modifai__/gurafikku/aikon/cluster_wind.png",
 		icon_size = 32
 	}
 cluster_ice_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/cluster_ice.png",
+		icon = "__modifai__/gurafikku/aikon/cluster_ice.png",
 		icon_size = 32
 	}
 cluster_lightning_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/cluster_lightning.png",
+		icon = "__modifai__/gurafikku/aikon/cluster_lightning.png",
 		icon_size = 32
 	}
 cluster_light_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/cluster_light.png",
+		icon = "__modifai__/gurafikku/aikon/cluster_light.png",
 		icon_size = 32
 	}
 cluster_dark_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/cluster_dark.png",
+		icon = "__modifai__/gurafikku/aikon/cluster_dark.png",
 		icon_size = 32
 	}
 
 -- crystal icons
 crystal_fire_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/crystal_fire.png",
+		icon = "__modifai__/gurafikku/aikon/crystal_fire.png",
 		icon_size = 32
 	}
 crystal_earth_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/crystal_earth.png",
+		icon = "__modifai__/gurafikku/aikon/crystal_earth.png",
 		icon_size = 32
 	}
 crystal_water_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/crystal_water.png",
+		icon = "__modifai__/gurafikku/aikon/crystal_water.png",
 		icon_size = 32
 	}
 crystal_wind_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/crystal_wind.png",
+		icon = "__modifai__/gurafikku/aikon/crystal_wind.png",
 		icon_size = 32
 	}
 crystal_ice_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/crystal_ice.png",
+		icon = "__modifai__/gurafikku/aikon/crystal_ice.png",
 		icon_size = 32
 	}
 crystal_lightning_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/crystal_lightning.png",
+		icon = "__modifai__/gurafikku/aikon/crystal_lightning.png",
 		icon_size = 32
 	}
 crystal_light_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/crystal_light.png",
+		icon = "__modifai__/gurafikku/aikon/crystal_light.png",
 		icon_size = 32
 	}
 crystal_dark_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/crystal_dark.png",
+		icon = "__modifai__/gurafikku/aikon/crystal_dark.png",
 		icon_size = 32
 	}
 
 -- geode icons
 ore_fire_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_fire.png",
+		icon = "__modifai__/gurafikku/aikon/ore_fire.png",
 		icon_size = 32
 	}
 ore_earth_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_earth.png",
+		icon = "__modifai__/gurafikku/aikon/ore_earth.png",
 		icon_size = 32
 	}
 ore_water_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_water.png",
+		icon = "__modifai__/gurafikku/aikon/ore_water.png",
 		icon_size = 32
 	}
 ore_wind_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_wind.png",
+		icon = "__modifai__/gurafikku/aikon/ore_wind.png",
 		icon_size = 32
 	}
 ore_ice_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_ice.png",
+		icon = "__modifai__/gurafikku/aikon/ore_ice.png",
 		icon_size = 32
 	}
 ore_lightning_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_lightning.png",
+		icon = "__modifai__/gurafikku/aikon/ore_lightning.png",
 		icon_size = 32
 	}
 ore_light_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_light.png",
+		icon = "__modifai__/gurafikku/aikon/ore_light.png",
 		icon_size = 32
 	}
 ore_dark_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_dark.png",
+		icon = "__modifai__/gurafikku/aikon/ore_dark.png",
 		icon_size = 32
 	}
 
 -- gem icons
 gem_fire_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/gem_fire.png",
+		icon = "__modifai__/gurafikku/aikon/gem_fire.png",
 		icon_size = 32
 	}
 gem_earth_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/gem_earth.png",
+		icon = "__modifai__/gurafikku/aikon/gem_earth.png",
 		icon_size = 32
 	}
 gem_water_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/gem_water.png",
+		icon = "__modifai__/gurafikku/aikon/gem_water.png",
 		icon_size = 32
 	}
 gem_wind_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/gem_wind.png",
+		icon = "__modifai__/gurafikku/aikon/gem_wind.png",
 		icon_size = 32
 	}
 gem_ice_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/gem_ice.png",
+		icon = "__modifai__/gurafikku/aikon/gem_ice.png",
 		icon_size = 32
 	}
 gem_lightning_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/gem_lightning.png",
+		icon = "__modifai__/gurafikku/aikon/gem_lightning.png",
 		icon_size = 32
 	}
 gem_light_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/gem_light.png",
+		icon = "__modifai__/gurafikku/aikon/gem_light.png",
 		icon_size = 32
 	}
 gem_dark_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/gem_dark.png",
+		icon = "__modifai__/gurafikku/aikon/gem_dark.png",
 		icon_size = 32
 	}
 -- card icons
 card_fire_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/card_fire.png",
+		icon = "__modifai__/gurafikku/aikon/card_fire.png",
 		icon_size = 32
 	}
 card_earth_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/card_earth.png",
+		icon = "__modifai__/gurafikku/aikon/card_earth.png",
 		icon_size = 32
 	}
 card_water_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/card_water.png",
+		icon = "__modifai__/gurafikku/aikon/card_water.png",
 		icon_size = 32
 	}
 card_wind_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/card_wind.png",
+		icon = "__modifai__/gurafikku/aikon/card_wind.png",
 		icon_size = 32
 	}
 card_ice_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/card_ice.png",
+		icon = "__modifai__/gurafikku/aikon/card_ice.png",
 		icon_size = 32
 	}
 card_lightning_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/card_lightning.png",
+		icon = "__modifai__/gurafikku/aikon/card_lightning.png",
 		icon_size = 32
 	}
 card_light_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/card_light.png",
+		icon = "__modifai__/gurafikku/aikon/card_light.png",
 		icon_size = 32
 	}
 card_dark_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/card_dark.png",
+		icon = "__modifai__/gurafikku/aikon/card_dark.png",
 		icon_size = 32
 	}
 card_trump_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/card_trump.png",
+		icon = "__modifai__/gurafikku/aikon/card_trump.png",
 		icon_size = 32
 	}
 slag_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/slag.png",
+		icon = "__modifai__/gurafikku/aikon/slag.png",
 		icon_size = 32
 	}
 ore_iron_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_iron.png",
+		icon = "__modifai__/gurafikku/aikon/ore_iron.png",
 		icon_size = 32
 	}
 ore_copper_ic = {
-		icon = "__nyohoki_modeifai__/gurafikku/aikon/ore_copper.png",
+		icon = "__modifai__/gurafikku/aikon/ore_copper.png",
 		icon_size = 32
 	}
-
+]]
 -- crystal colors --
 nyohoki_iro = {}		-- iro = color
 nyohoki_iro.akai =
