@@ -177,6 +177,10 @@ nfci = "__modifai__/gurafikku/aikon/nfc.png"
 nfcisi = 1280
 nfcisc = 0.025
 
+orestack = settings.startup["ore-stack_size"].value
+ingotstack = settings.startup["ore-stack_size"].value * 2
+platestack =  settings.startup["ore-stack_size"].value * 2
+
 nyohoki_icon = {
 	icon = "__modifai__/gurafikku/aikon/nyohoki_icon.png",
 	icon_size = 640
