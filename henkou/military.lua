@@ -32,9 +32,11 @@ data.raw.ammo["atomic-bomb"].stack_size = 200
 data.raw.ammo["flamethrower-ammo"].stack_size = 200
 data.raw.ammo["flamethrower-ammo"].magazine_size = 200
 
-data.raw.gun["submachine-gun"].attack_parameters.range = 18
-data.raw.gun["vehicle-machine-gun"].attack_parameters.range = 20
-data.raw.gun["tank-machine-gun"].attack_parameters.range = 20
+data.raw.gun["submachine-gun"].attack_parameters.range = settings.startup["submachine_gun-range"].value -- base 18
+data.raw.gun["vehicle-machine-gun"].attack_parameters.range = settings.startup["vehicle_machine_gun-range"].value -- base 20
+data.raw.gun["tank-machine-gun"].attack_parameters.range = settings.startup["tank_machine_gun-range"].value -- base 20
 
 data.raw.gun["flamethrower"].attack_parameters.range = 15
 data.raw.gun["tank-flamethrower"].attack_parameters.range = 9
+
+data.raw["ammo-turret"]["gun-turret"].attack_parameters.range = settings.startup["tank_machine_gun-range"].value

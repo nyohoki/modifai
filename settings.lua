@@ -7,6 +7,7 @@ data:extend(
 			setting_type = "startup",
 			default_value = true
 		},
+		--[[
 		{
 			type = "bool-setting",
 			name = "the_blackest_night",
@@ -14,6 +15,7 @@ data:extend(
 			setting_type = "runtime-global",
 			default_value = "false"
 		},
+		]]
 		{
 			type = "bool-setting",
 			name = "nightmare",
@@ -26,7 +28,7 @@ data:extend(
 			name = "sky_light",
 			order = "tbn-1",
 			setting_type = "runtime-global",
-			default_value = 255,
+			default_value = 0,
 			minium_value = 0,
 			maximum_value = 255
 		},

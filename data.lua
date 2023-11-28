@@ -1,3 +1,4 @@
+require("backers")
 require("jankushon")
 require("kansuu")
 
@@ -9,9 +10,9 @@ require("henkou.equipment")
 require("henkou.military")
 -- require("henkou.resource")
 
-
+require("toshokan.recipes")
 require("toshokan.sozai-gyokuei")
-
+require("toshokan.lux")
 require("toshokan.dredger")
 require("toshokan.seed-tree")
 
@@ -21,8 +22,6 @@ require("toshokan.ore-iron")
 require("toshokan.vanilla_recipes")
 
 require("toshokan.dev.aetherite")
-
-
 
 if settings.startup["sozai"].value == true then
 	require("toshokan.sozai-autoplace")
