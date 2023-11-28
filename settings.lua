@@ -7,15 +7,15 @@ data:extend(
 			setting_type = "startup",
 			default_value = true
 		},
-		--[[
 		{
-			type = "bool-setting",
-			name = "the_blackest_night",
-			order = "tbn",
-			setting_type = "runtime-global",
-			default_value = "false"
+			type = "int-setting",
+			name = "barrel-cap",
+			order = "barrel",
+			setting_type = "startup",
+			default_value = 50,
+			minimum_value = 1,
+			maximum_value = 25000
 		},
-		]]
 		{
 			type = "bool-setting",
 			name = "nightmare",
@@ -29,7 +29,7 @@ data:extend(
 			order = "tbn-1",
 			setting_type = "runtime-global",
 			default_value = 0,
-			minium_value = 0,
+			minimum_value = 0,
 			maximum_value = 255
 		},
 		{
