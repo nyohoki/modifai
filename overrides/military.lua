@@ -8,7 +8,7 @@ dra["uranium-rounds-magazine"].magazine_size = 30
 dra["uranium-rounds-magazine"].stack_size = 200
 
 
-data.raw.gun["tank-cannon"].attack_parameters.range = 200
+data.raw.gun["tank-cannon"].attack_parameters.range = settings.startup["tank_cannon-range"].value
 data.raw.ammo["cannon-shell"].stack_size = 200
 data.raw.ammo["cannon-shell"].magazine_size = 200
 data.raw.ammo["cannon-shell"].ammo_type.action.action_delivery.max_range = settings.startup["cannon_shell-delivery_range"].value

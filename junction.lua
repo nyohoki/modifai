@@ -183,7 +183,7 @@ platestack =  settings.startup["ore-stack_size"].value * 2
 
 nyohoki_icon = {
 	icon = "__modifai__/images/icons/nyohoki_icon.png",
-	icon_size = 640
+	icon_size = 640,
 	icon_scale = 0.05
 }
 plus_1 = {
