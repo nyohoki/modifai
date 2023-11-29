@@ -4,7 +4,7 @@ data:extend({
 		type = "recipe",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/ore-iron.png",
+				icon = "__modifai__/images/icons/ore-iron.png",
 				icon_size = 32,
 				icon_scale = 1
 			}
@@ -33,7 +33,7 @@ data:extend({
 		type = "recipe",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/ore-copper.png",
+				icon = "__modifai__/images/icons/ore-copper.png",
 				icon_size = 32,
 				icon_scale = 1
 			}
@@ -62,7 +62,7 @@ data:extend({
 		type = "recipe",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/ore-earth.png",
+				icon = "__modifai__/images/icons/ore-earth.png",
 				icon_size = 32,
 				icon_scale = 1
 			}
@@ -91,7 +91,7 @@ data:extend({
 		type = "recipe",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/ore-dark.png",
+				icon = "__modifai__/images/icons/ore-dark.png",
 				icon_size = 32,
 				icon_scale = 1
 			}
@@ -120,7 +120,7 @@ data:extend({
 		type = "recipe",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/ingot-iron.png",
+				icon = "__modifai__/images/icons/ingot-iron.png",
 				icon_size = 32,
 				icon_scale = 1
 			}
@@ -151,7 +151,7 @@ data:extend({
 		type = "recipe",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/ingot-copper.png",
+				icon = "__modifai__/images/icons/ingot-copper.png",
 				icon_size = 32,
 				icon_scale = 1
 			}

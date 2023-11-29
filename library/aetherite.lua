@@ -41,7 +41,7 @@ function resource(resource_parameters, autoplace_parameters)
 		name = resource_parameters.name,
 		icons = {
 			{
-			icon = "__modifai__/gurafikku/aikon/nfc.png",
+			icon = "__modifai__/images/icons/nfc.png",
 			tint = resource_parameters.map_color,
 			icon_size = 1280,
 			icon_scale = 0.025

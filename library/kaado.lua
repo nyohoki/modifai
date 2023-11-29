@@ -5,7 +5,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_1.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_1.png",
 					icon_size = 32
 				}
 			},
@@ -21,7 +21,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_1.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_1.png",
 					icon_size = 32
 				}
 			},
@@ -37,7 +37,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_1.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_1.png",
 					icon_size = 32
 				}
 			},
@@ -53,7 +53,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_1.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_1.png",
 					icon_size = 32
 				}
 			},
@@ -69,7 +69,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_2.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_2.png",
 					icon_size = 32
 				}
 			},
@@ -85,7 +85,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_2.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_2.png",
 					icon_size = 32
 				}
 			},
@@ -101,7 +101,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_2.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_2.png",
 					icon_size = 32
 				}
 			},
@@ -117,7 +117,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_2.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_2.png",
 					icon_size = 32
 				}
 			},
@@ -133,7 +133,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_3.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_3.png",
 					icon_size = 32
 				}
 			},
@@ -149,7 +149,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_3.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_3.png",
 					icon_size = 32
 				}
 			},
@@ -165,7 +165,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_3.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_3.png",
 					icon_size = 32
 				}
 			},
@@ -181,7 +181,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_3.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_3.png",
 					icon_size = 32
 				}
 			},
@@ -197,7 +197,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_4.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_4.png",
 					icon_size = 32
 				}
 			},
@@ -213,7 +213,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_4.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_4.png",
 					icon_size = 32
 				}
 			},
@@ -229,7 +229,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_4.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_4.png",
 					icon_size = 32
 				}
 			},
@@ -245,7 +245,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_4.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_4.png",
 					icon_size = 32
 				}
 			},
@@ -261,7 +261,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_5.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_5.png",
 					icon_size = 32
 				}
 			},
@@ -277,7 +277,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_5.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_5.png",
 					icon_size = 32
 				}
 			},
@@ -293,7 +293,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_5.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_5.png",
 					icon_size = 32
 				}
 			},
@@ -309,7 +309,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_5.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_5.png",
 					icon_size = 32
 				}
 			},
@@ -325,7 +325,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_6.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_6.png",
 					icon_size = 32
 				}
 			},
@@ -341,7 +341,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_6.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_6.png",
 					icon_size = 32
 				}
 			},
@@ -357,7 +357,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_6.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_6.png",
 					icon_size = 32
 				}
 			},
@@ -373,7 +373,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_6.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_6.png",
 					icon_size = 32
 				}
 			},
@@ -389,7 +389,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_7.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_7.png",
 					icon_size = 32
 				}
 			},
@@ -405,7 +405,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_7.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_7.png",
 					icon_size = 32
 				}
 			},
@@ -421,7 +421,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_7.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_7.png",
 					icon_size = 32
 				}
 			},
@@ -437,7 +437,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_7.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_7.png",
 					icon_size = 32
 				}
 			},
@@ -453,7 +453,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_8.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_8.png",
 					icon_size = 32
 				}
 			},
@@ -469,7 +469,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_8.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_8.png",
 					icon_size = 32
 				}
 			},
@@ -485,7 +485,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_8.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_8.png",
 					icon_size = 32
 				}
 			},
@@ -501,7 +501,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_8.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_8.png",
 					icon_size = 32
 				}
 			},
@@ -517,7 +517,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_9.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_9.png",
 					icon_size = 32
 				}
 			},
@@ -533,7 +533,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_9.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_9.png",
 					icon_size = 32
 				}
 			},
@@ -549,7 +549,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_9.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_9.png",
 					icon_size = 32
 				}
 			},
@@ -565,7 +565,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_9.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_9.png",
 					icon_size = 32
 				}
 			},
@@ -581,7 +581,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_10.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_10.png",
 					icon_size = 32
 				}
 			},
@@ -597,7 +597,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_10.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_10.png",
 					icon_size = 32
 				}
 			},
@@ -613,7 +613,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_10.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_10.png",
 					icon_size = 32
 				}
 			},
@@ -629,7 +629,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_10.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_10.png",
 					icon_size = 32
 				}
 			},
@@ -645,7 +645,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_11.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_11.png",
 					icon_size = 32
 				}
 			},
@@ -661,7 +661,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_11.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_11.png",
 					icon_size = 32
 				}
 			},
@@ -677,7 +677,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_11.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_11.png",
 					icon_size = 32
 				}
 			},
@@ -693,7 +693,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_11.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_11.png",
 					icon_size = 32
 				}
 			},
@@ -709,7 +709,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_12.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_12.png",
 					icon_size = 32
 				}
 			},
@@ -725,7 +725,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_12.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_12.png",
 					icon_size = 32
 				}
 			},
@@ -741,7 +741,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_12.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_12.png",
 					icon_size = 32
 				}
 			},
@@ -757,7 +757,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_12.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_12.png",
 					icon_size = 32
 				}
 			},
@@ -773,7 +773,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-batons_13.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-batons_13.png",
 					icon_size = 32
 				}
 			},
@@ -789,7 +789,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-coins_13.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-coins_13.png",
 					icon_size = 32
 				}
 			},
@@ -805,7 +805,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-cups_13.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-cups_13.png",
 					icon_size = 32
 				}
 			},
@@ -821,7 +821,7 @@ data:extend({
 			ics =
 			{
 				{
-					icon = "__nyohoki_modeifai__/gurafikku/aikon/card-swords_13.png",
+					icon = "__nyohoki_modeifai__/images/icons/card-swords_13.png",
 					icon_size = 32
 				}
 			},

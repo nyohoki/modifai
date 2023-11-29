@@ -4,7 +4,7 @@ data:extend({
 		type = "item",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/nfc.png",
+				icon = "__modifai__/images/icons/nfc.png",
 				icon_size = 1280,
 				icon_scale = 0.025,
 				tint = nyohoki_iro.usuzakura
@@ -26,7 +26,7 @@ data:extend({
 		type = "recipe",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/nfc.png",
+				icon = "__modifai__/images/icons/nfc.png",
 				icon_size = 1280,
 				icon_scale = 0.025,
 				tint = nyohoki_iro.usuzakura

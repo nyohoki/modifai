@@ -5,7 +5,7 @@ data:extend(
 			name = "sulfur-2",
 			icons = {
 				{
-					icon = "__modifai__/gurafikku/aikon/nyohoki_icon.png",
+					icon = "__modifai__/images/icons/nyohoki_icon.png",
 					icon_size = 640,
 					icon_scale = 0.05
 				}

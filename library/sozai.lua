@@ -1,6 +1,6 @@
 stages = {
 	sheet = {
-		filename = "__modifai__/gurafikku/enteitei/ore/aetherite.png",
+		filename = "__modifai__/images/entities/ore/aetherite.png",
 		priority = "extra-high",
 		tint = resource_parameters.map_color,
 		width = 128,
@@ -12,7 +12,7 @@ stages = {
 },
 stages_effect = {
 	layers = {
-		filename = "__modifai__/gurafikku/enteitei/ore/aetherite_1-8.png",
+		filename = "__modifai__/images/entities/ore/aetherite_1-8.png",
 		priority = "extra-high",
 		tint = resource_parameters.map_color,
 		width = 640,
@@ -38,7 +38,7 @@ aetherite_animation_sequence = {
 animation = {
 	layers = {
 		{
-			filename = "__modifai__/gurafikku/gurafikku/enteitei/ore/aetherite-1.png",
+			filename = "__modifai__/gurafikku/images/entities/ore/aetherite-1.png",
 			priority = "extra-high",
 			tint = nyohoki_iro.akai,
 			width = 640,
@@ -49,7 +49,7 @@ animation = {
 			flags = {"light"}
 		},
 		{
-			filename = "__modifai__/gurafikku/gurafikku/enteitei/ore/aetherite-2.png",
+			filename = "__modifai__/gurafikku/images/entities/ore/aetherite-2.png",
 			priority = "extra-high",
 			tint = nyohoki_iro.orenji,
 			width = 640,
@@ -60,7 +60,7 @@ animation = {
 			flags = {"light"}
 		},
 		{
-			filename = "__modifai__/gurafikku/gurafikku/enteitei/ore/aetherite-3.png",
+			filename = "__modifai__/gurafikku/images/entities/ore/aetherite-3.png",
 			priority = "extra-high",
 			tint = nyohoki_iro.ki,
 			width = 640,
@@ -71,7 +71,7 @@ animation = {
 			flags = {"light"}
 		},
 		{
-			filename = "__modifai__/gurafikku/gurafikku/enteitei/ore/aetherite-4.png",
+			filename = "__modifai__/gurafikku/images/entities/ore/aetherite-4.png",
 			priority = "extra-high",
 			tint = nyohoki_iro.midori,
 			width = 640,
@@ -82,7 +82,7 @@ animation = {
 			flags = {"light"}
 		},
 		{
-			filename = "__modifai__/gurafikku/gurafikku/enteitei/ore/aetherite-5.png",
+			filename = "__modifai__/gurafikku/images/entities/ore/aetherite-5.png",
 			priority = "extra-high",
 			tint = nyohoki_iro.ao,
 			width = 640,
@@ -93,7 +93,7 @@ animation = {
 			flags = {"light"}
 		},
 		{
-			filename = "__modifai__/gurafikku/gurafikku/enteitei/ore/aetherite-6.png",
+			filename = "__modifai__/gurafikku/images/entities/ore/aetherite-6.png",
 			priority = "extra-high",
 			tint = nyohoki_iro.murasaki,
 			width = 640,
@@ -104,7 +104,7 @@ animation = {
 			flags = {"light"}
 		},
 		{
-			filename = "__modifai__/gurafikku/gurafikku/enteitei/ore/aetherite-7.png",
+			filename = "__modifai__/gurafikku/images/entities/ore/aetherite-7.png",
 			priority = "extra-high",
 			tint = nyohoki_iro.shiro,
 			width = 640,
@@ -115,7 +115,7 @@ animation = {
 			flags = {"light"}
 		},
 		{
-			filename = "__modifai__/gurafikku/gurafikku/enteitei/ore/aetherite-8.png",
+			filename = "__modifai__/gurafikku/images/entities/ore/aetherite-8.png",
 			priority = "extra-high",
 			tint = nyohoki_iro.kuro,
 			width = 640,

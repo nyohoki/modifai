@@ -1,32 +1,32 @@
 require("backers")
-require("jankushon")
-require("kansuu")
+require("junction")
+require("function")
 
 
-require("toshokan.group")
+require("library.group")
 
-require("henkou.henkou")
-require("henkou.equipment")
-require("henkou.military")
--- require("henkou.resource")
+require("overrides.henkou")
+require("overrides.equipment")
+require("overrides.military")
+-- require("overrides.resource")
 
-require("toshokan.recipes")
-require("toshokan.sozai-gyokuei")
-require("toshokan.lux")
-require("toshokan.dredger")
-require("toshokan.seed-tree")
+require("library.recipes")
+require("library.sozai-gyokuei")
+require("library.lux")
+require("library.dredger")
+require("library.seed-tree")
 
-require("toshokan.ore-copper")
-require("toshokan.ore-iron")
+require("library.ore-copper")
+require("library.ore-iron")
 
-require("toshokan.vanilla_recipes")
+require("library.vanilla_recipes")
 
-require("toshokan.dev.aetherite")
+require("library.dev.aetherite")
 
 if settings.startup["sozai"].value == true then
-	require("toshokan.sozai-autoplace")
-	require("toshokan.sozai-generation")
-	require("toshokan.sozai-sozai")
-	require("toshokan.sozai-map_gen_presets")
-	require("henkou.resource")
+	require("library.sozai-autoplace")
+	require("library.sozai-generation")
+	require("library.sozai-sozai")
+	require("library.sozai-map_gen_presets")
+	require("overrides.resource")
 end

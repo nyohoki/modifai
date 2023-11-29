@@ -2,7 +2,7 @@ data:extend({
 	{
 		name = "seed-tree",
 		type = "item",
-		icon = "__modifai__/gurafikku/aikon/seed-tree.png",
+		icon = "__modifai__/images/icons/seed-tree.png",
 		icon_size = 32,
 		subgroup = "nyohoki-intermediates",
 		order = "seed-tree",
@@ -12,7 +12,7 @@ data:extend({
 	{
 		name = "seed-tree",
 		type = "recipe",
-		icon = "__modifai__/gurafikku/aikon/seed-tree.png",
+		icon = "__modifai__/images/icons/seed-tree.png",
 		icon_size = 32,
 		subgroup = "nyohoki-intermediates",
 		order = "seed-tree",

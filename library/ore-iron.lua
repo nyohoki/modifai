@@ -4,7 +4,7 @@ data:extend({
 		type = "item",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/ore-iron.png",
+				icon = "__modifai__/images/icons/ore-iron.png",
 				icon_size = 32,
 				icon_scale = 1
 			}
@@ -18,7 +18,7 @@ data:extend({
 		type = "recipe",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/ore-iron.png",
+				icon = "__modifai__/images/icons/ore-iron.png",
 				icon_size = 32,
 				icon_scale = 1
 			}

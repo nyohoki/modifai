@@ -3,7 +3,7 @@ data:extend({
 		type = "item-group",
 		name = "cardian",
 		order = "nfc-g-2",
-		icon = "__nyohoki_modeifai__/gurafikku/aitemugurupu/cardde.png",
+		icon = "__nyohoki_modeifai__/images/groups/cardde.png",
 		icon_size = 2560,
 		icon_scale = 0.05,
 	},

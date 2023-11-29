@@ -2,7 +2,7 @@ data:extend({
 	{
 		name = "dredger",
 		type = "item",
-		icon = "__modifai__/gurafikku/aikon/dredger.png",
+		icon = "__modifai__/images/icons/dredger.png",
 		icon_size = 32,
 		icon_scale = 1,
 		subgroup = "nyohoki-intermediates",
@@ -19,7 +19,7 @@ data:extend({
 	{
 		name = "dredger",
 		type = "recipe",
-		icon = "__modifai__/gurafikku/aikon/dredger.png",
+		icon = "__modifai__/images/icons/dredger.png",
 		icon_size = 32,
 		icon_scale = 1,
 		subgroup = "nyohoki-intermediates",

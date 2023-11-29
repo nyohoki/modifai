@@ -4,7 +4,7 @@ data:extend({
 		type = "item",
 		icons = {
 			{
-				icon = "__modifai__/gurafikku/aikon/ore-copper.png",
+				icon = "__modifai__/images/icons/ore-copper.png",
 				icon_size = 32,
 				icon_scale = 1
 			}

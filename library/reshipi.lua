@@ -2,7 +2,7 @@ data:extend({
 	nyohoki.recipe(
 		{
 			name = "plate_iron",
-			ics =  {{icon = "__nyohoki_modeifai__/gurafikku/aikon/ingot_iron.png", icon_size = 32}},
+			ics =  {{icon = "__nyohoki_modeifai__/images/icons/ingot_iron.png", icon_size = 32}},
 			cat = "smelting",
 			gp = nil,
 			sg = nc_1,
@@ -30,7 +30,7 @@ data:extend({
 		nyohoki.recipe(
 		{
 			name = "plate_copper",
-			ics =  {{icon =  "__nyohoki_modeifai__/gurafikku/aikon/ingot_copper.png", icon_size = 32}},
+			ics =  {{icon =  "__nyohoki_modeifai__/images/icons/ingot_copper.png", icon_size = 32}},
 			cat = "smelting",
 			gp = nil,
 			sg = nc_1,
@@ -58,7 +58,7 @@ data:extend({
 		nyohoki.recipe(
 		{
 			name = "stone",
-			ics =  {{icon =  "__nyohoki_modeifai__/gurafikku/aikon/stone.png", icon_size = 1280, icon_scale = 0.025}},
+			ics =  {{icon =  "__nyohoki_modeifai__/images/icons/stone.png", icon_size = 1280, icon_scale = 0.025}},
 			cat = "crafting",
 			gp = nil,
 			sg = nc_1,
@@ -87,7 +87,7 @@ data:extend({
 	nyohoki.recipe(
 		{
 			name = "slag_reclimation_iron",
-			ics =  {{icon =  "__nyohoki_modeifai__/gurafikku/aikon/stone.png", icon_size = 1280, icon_scale = 0.025}},
+			ics =  {{icon =  "__nyohoki_modeifai__/images/icons/stone.png", icon_size = 1280, icon_scale = 0.025}},
 			cat = "crafting",
 			gp = nil,
 			sg = nc_1,
@@ -115,7 +115,7 @@ data:extend({
 	nyohoki.recipe(
 		{
 			name = "slag_reclimation_copper",
-			ics =  {{icon =  "__nyohoki_modeifai__/gurafikku/aikon/stone.png", icon_size = 1280, icon_scale = 0.025}},
+			ics =  {{icon =  "__nyohoki_modeifai__/images/icons/stone.png", icon_size = 1280, icon_scale = 0.025}},
 			cat = "crafting",
 			gp = nil,
 			sg = nc_1,

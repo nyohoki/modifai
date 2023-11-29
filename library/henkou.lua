@@ -33,8 +33,8 @@ data.raw["logistic-container"]["logistic-chest-buffer"].inventory_size = setting
 data.raw["logistic-container"]["logistic-chest-requester"].inventory_size = settings.startup["chest-inventory_size"].value * 4
 
 
-data.raw.item["uranium-ore"].icon = "__modifai__/gurafikku/aikon/tys.png"
+data.raw.item["uranium-ore"].icon = "__modifai__/images/icons/tys.png"
 data.raw.item["uranium-ore"].icon_size = 64
 data.raw.item["uranium-ore"].icon_scale = 0.5
-data.raw.item["uranium-238"].icon = "__modifai__/gurafikku/aikon/tastles.png"
-data.raw.item["uranium-235"].icon = "__modifai__/gurafikku/aikon/torb.png"
+data.raw.item["uranium-238"].icon = "__modifai__/images/icons/tastles.png"
+data.raw.item["uranium-235"].icon = "__modifai__/images/icons/torb.png"
