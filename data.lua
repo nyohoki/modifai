@@ -10,6 +10,7 @@ require("overrides.equipment")
 require("overrides.military")
 -- require("overrides.resource")
 
+require("library.items")
 require("library.recipes")
 require("library.sozai-gyokuei")
 require("library.lux")
