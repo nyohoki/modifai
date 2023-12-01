@@ -14,14 +14,817 @@ data:extend(
 			order = "hmp",
 			stack_size = 100
 		},
-		{
+		{	-- adamantite?
 			type = "item",
-			name = "ore-adaman",
+			name = "ingot-adaman",
 			icons = nyohoki_icon,
 			subgroup = nyomeds,
-			order = "ore-adaman",
+			order = "ingot-adaman",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-aht_urhgan_brass",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-aht_urhgan_brass",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-aluminium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-aluminium",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-aquesous_orichalcum",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-aquesous_orichalcum",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-aurum_regis",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-aurum_regis",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-beryllium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-beryllium",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-bewitched_gold",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-bewitched_gold",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-bismuth",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-bismuth",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-brass",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-brass",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-bronze",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-bronze",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-chigusa",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-chigusa",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-chondrite",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-chondrite",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-chromite",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-chromite",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-cloud_mythril",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-cloud_mythril",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-cobalt_alloy",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-cobalt_alloy",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-cobalt",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-cobalt",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-copper",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-copper",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-damascus",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-damascus",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-darksteel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-darksteel",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-dark_adaman",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-dark_adaman",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-deep_gold",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-deep_gold",
+			stack_size = ingotstack
+		},
+		
+		{	-- xiv
+			type = "item",
+			name = "ingot-duraluminium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-duraaluminium",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ore-durium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ore-durim",
 			stack_size = orestack
 		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-dwarven_mythril",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-dwarven_mythril",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-dweomer_steel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-dweomer_steel",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-eikon_iron",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-eikon_iron",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-electrum",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-electrium",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-evergleam",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-evergleam",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-frigid_orichalcum",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-frigid_orichalcum",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-gold",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-gold",
+			stack_size = ingotstack
+		},
+		
+		{	-- xiv
+			type = "item",
+			name = "ingot-grade_2_skybuilders'",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-grade_2_skybuilders'",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-grade_3_skybuilders'",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-grade_3_skybuilders'",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-guild_forged",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-guild_forged",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-hardilver",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-hardsilver",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-hepaitzon",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-hepatzon",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-heavy_metal",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-heavy_metal",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-high_durium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-high_durium",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-high_mythrite",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-high_mythrite",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-high_steel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-high_steel",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-ilmenite",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-ilmenite",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-imperial_wootz",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-imperial_wootz",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-indurated_gold",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-indurated_gold",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-iridium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-iridium",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-iron",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-iron",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-ishgardian_steel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-ishgardian_steel",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-koppranickel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-koppranickel",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-light_steel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-light_steel",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-lucent_iron",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-lucent_iron",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-lucent_steel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-lucent_steel",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-lunar_adamantite",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-lunar_adamantite",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-manganese",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-manganese",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-midrium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-midrium",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-moblumin",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-moblumin",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-molybdenum",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-molybdenum",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-mythril",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-mythril",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-mythrite",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-mythrite",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-neutralising_silver",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-neutralising_silver",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-nightsteel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-nightsteel",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-niobium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-niobium",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-oddly_specific_iron",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-oddly_specific_iron",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-oddly_specific_silver",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-oddly_specific_silver",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-oberon's_gold",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-oberon's_gold",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-orichalcum",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-orichalcum",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-ormolu",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-ormolu",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-oroshigane",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-oroshigane",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-paktong",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-paktong",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-palladium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-palladium",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-palladian_brass",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-palladian_brass",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-penubral_brass",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-prenubral_brass",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-pewter",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-pewter",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-phrygian_gold",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-phrygian_gold",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-platinum",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-platinum",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-prismatic",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-prismatic",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-ra'kaznar",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-ra'kaznar",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-rhodium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-rhodium",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-rogue's_silver",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-rogue's_silver",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-rose_gold",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-rose_gold",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-ruthenium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-ruthenium",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-scarletite",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-scarletite",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-scintillant",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-scintillant",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-select_bismuth",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-select_bismuth",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-silver",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-silver",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-silvergrace",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-silvergrace",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-skybuilders'",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-skybuilders'",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-skysteel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-skysteel",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-softsilver",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-softsilver",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-silstice",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-solstice",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-spirit_orichalcum",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-spirit_orichalcum",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-steel",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-steel",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-stonegold",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-stonegold",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-thokcha",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-thokcha",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-tama_hagane",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-tama_hagane",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-titanbronze",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-titanbronze",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-titanium",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-titanium",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-titanium_alloy",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-titanium_alloy",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-tin",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-tin",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-troll_bronze",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-troll_bronze",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-tungsten",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-tungsten",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-vivio_platinum",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-vivio_platinum",
+			stack_size = ingotstack
+		},
+		{	-- xiv
+			type = "item",
+			name = "ingot-wolfram",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-wolfram",
+			stack_size = ingotstack
+		},
+		{
+			type = "item",
+			name = "ingot-wootz",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "ingot-wootz",
+			stack_size = ingotstack
+		},
+	-- Ores
 		{
 			type = "item",
 			name = "ore-aluminium",
