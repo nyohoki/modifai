@@ -40,3 +40,7 @@ data.raw["inserter"]["stack-filter-inserter"].filter_count = 4
 data.raw["beacon"]["beacon"].supply_area_distance = 4
 data.raw.beacon["beacon"].module_specification.module_slots = 4
 
+data.raw.lab["lab"].working_sound.sound = {
+    filename = "__modifai__/sounds/caramelldansen.ogg",
+    volume = 0.7
+}

@@ -1,4 +1,4 @@
---[[
+
 function nightmare()
 	game.surfaces.nauvis.min_brightness = 0.1
 	-- game.surfaces.nauvis.daytime = 0.5
@@ -36,10 +36,3 @@ script.on_event(defines.events.on_console_chat, function()
 		not_nightmare()
 	end
 end)
-]]
-
-function set_backer_name(entity)
-	if entity and entity.supports_backer_name() then
-		entity.backer_name = nyohoki_backers
-	end
-end
