@@ -15,7 +15,7 @@ data:extend(
 			subgroup = "",
 			order = "sulfur-2",
 			energy_required = 1,
-			enabled = true, -- add to tech
+			enabled = true,
 			ingredients =  {
 				{
 					type = "fluid",
@@ -61,6 +61,154 @@ data:extend(
 					a = 255
 				}
 			}
-		}
+		},
+		{
+			type = "recipe",
+			name = "bomb_ash",
+			icons = nyohoki_icon,
+			category = "crafting",
+			group = "",
+			subgroup = nyomeds,
+			order = "bomb_ash",
+			energy_required = 1,
+			enabled = true,
+			ingredients = {
+				{
+					type = "item",
+					name = "coal",
+					amount = 2
+				}
+			},
+			results = {
+				{
+					type = "item",
+					name = "bomb_ash",
+					amount = 4
+				}
+			}
+		},
+		{
+			type = "recipe",
+			name = "ingot-iron",
+			icons = nyohoki_icon,
+			category = "smelting",
+			group = "intermediates",
+			subgroup = "",
+			order = "ingot-iron",
+			energy_required = 3,
+			enabled = true,
+			ingredients = {
+				{
+					type = "item",
+					name = "ore-iron",
+					amount = 3
+				}
+			},
+			results = {
+				{
+					type = "item",
+					name = "ingot-iron",
+					amount = 1
+				}
+			}
+		},
+		{
+			type = "recipe",
+			name = "ingot-copper",
+			icons = nyohoki_icon,
+			category = "smelting",
+			group = "intermediates",
+			subgroup = "",
+			order = "ingot-copper",
+			energy_required = 3,
+			enabled = true,
+			ingredients = {
+				{
+					type = "item",
+					name = "ore-copper",
+					amount = 3
+				}
+			},
+			results = {
+				{
+					type = "item",
+					name = "ingot-copper",
+					amount = 1
+				}
+			}
+		},
+		{
+			type = "recipe",
+			name = "ingot-steel",
+			icons = nyohoki_icon,
+			category = "smelting",
+			group = "intermediates",
+			subgroup = "",
+			order = "ingot-iron",
+			energy_required = 3,
+			enabled = true,
+			ingredients = {
+				{
+					type = "item",
+					name = "ore-iron",
+					amount = 3
+				},
+				{
+					type = "item",
+					name = "bomb_ash",
+					amount = 1
+				}
+			},
+			results = {
+				{
+					type = "item",
+					name = "ingot-steel",
+					amount = 1
+				}
+			}
+		},
+			
 	}
 )
+
+function ingot.recipe(ingot)
+	return
+	{
+		type = "recipe",
+		name = "ingot-"..ingot.name,
+		icons = ingot.icons,
+		category = "smelting",
+		subgroup = nyomeds,
+		order = "ingot-"..ingot.name,
+		energy_requried = 3,
+		enabled = true,
+		ingredients = {
+			{
+				type = "item",
+				name = "ore-"..ingot.orename,
+				amount = 3
+			}
+		},
+		results = {
+			{
+				type = "item",
+				name = "ingot-"..ingot.name,
+				amount = 1
+			}
+		}
+	}
+end
+
+data:extend(
+	{
+		ingot.recipe(
+			{
+				name = "cobalt",
+				icons = nyohoki_icon,
+				order = "cobalt",
+				orename = "cobalt"
+			}
+		)
+	}
+)
+			
