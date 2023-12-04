@@ -267,6 +267,14 @@ data:extend(
 			default_value = 9
 		},
 		{
+			type = "int-setting",
+			name = "personal_laser_range",
+			order = "mil-0028",
+			setting_type = "startup",
+			default_value = 15,
+			maximum_value = 4292967295
+		},
+		{
 			name = "filter_stack_inserter-filter_count",
 			type = "int-setting",
 			order = "filter_stack_inserter",

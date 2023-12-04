@@ -21,6 +21,7 @@ require("library.ore-copper")
 require("library.ore-iron")
 
 require("library.vanilla_recipes")
+require("library.staghound")
 
 require("library.dev.aetherite")
 

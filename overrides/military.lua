@@ -22,8 +22,8 @@ data.raw.ammo["explosive-uranium-cannon-shell"].stack_size = settings.startup["c
 data.raw.ammo["explosive-uranium-cannon-shell"].magazine_size = settings.startup["cannon_shell-size"].value
 data.raw.ammo["explosive-uranium-cannon-shell"].ammo_type.action.action_delivery.max_range = settings.startup["cannon_shell-delivery_range"].value
 
-data.raw["active-defense-equipment"]["personal-laser-defense-equipment"].attack_parameters.range = 90
-data.raw["active-defense-equipment"]["personal-laser-defense-equipment"].attack_parameters.ammo_type.action.action_delivery.max_length = 90
+data.raw["active-defense-equipment"]["personal-laser-defense-equipment"].attack_parameters.range = settings.startup["personal_laser_range"].value
+data.raw["active-defense-equipment"]["personal-laser-defense-equipment"].attack_parameters.ammo_type.action.action_delivery.max_length = settings.startup["personal_laser_range"].value
 
 data.raw.ammo["rocket"].stack_size = 200
 data.raw.ammo["explosive-rocket"].stack_size = 200
