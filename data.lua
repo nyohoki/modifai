@@ -17,11 +17,11 @@ require("library.lux")
 require("library.dredger")
 require("library.seed-tree")
 
-require("library.ore-copper")
-require("library.ore-iron")
+-- require("library.ore-copper")
+-- require("library.ore-iron")
 
-require("library.vanilla_recipes")
-require("library.staghound")
+-- require("library.vanilla_recipes")
+require("library.buggebear")
 
 require("library.dev.aetherite")
 

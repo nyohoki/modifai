@@ -89,31 +89,6 @@ data:extend(
 		},
 		{
 			type = "recipe",
-			name = "ingot-iron",
-			icons = nyohoki_icon,
-			category = "smelting",
-			group = "intermediates",
-			subgroup = "",
-			order = "ingot-iron",
-			energy_required = 3,
-			enabled = true,
-			ingredients = {
-				{
-					type = "item",
-					name = "ore-iron",
-					amount = 3
-				}
-			},
-			results = {
-				{
-					type = "item",
-					name = "ingot-iron",
-					amount = 1
-				}
-			}
-		},
-		{
-			type = "recipe",
 			name = "ingot-copper",
 			icons = nyohoki_icon,
 			category = "smelting",
@@ -170,8 +145,8 @@ data:extend(
 			
 	}
 )
-
-function ingot.recipe(ingot)
+recipe = {}
+function recipe.ingot(ingot)
 	return
 	{
 		type = "recipe",
@@ -201,14 +176,47 @@ end
 
 data:extend(
 	{
-		ingot.recipe(
+		recipe.ingot(
 			{
 				name = "cobalt",
-				icons = nyohoki_icon,
+				icons = {
+					{
+						icon = "__modifai__/images/icons/ingot-cobalt.png",
+						icon_size = 128,
+						icon_scale = 0.25
+					}
+				},
 				order = "cobalt",
 				orename = "cobalt"
+			}
+		),
+		recipe.ingot(
+			{
+				name = "copper",
+				icons = {
+					{
+						icon = "__modifai__/images/icons/ingot-copper.png",
+						icon_size = 128,
+						icon_scale = 0.25
+					}
+				},
+				order = "copper",
+				orename = "copper"
+			}
+		),
+		recipe.ingot(
+			{
+				name = "iron",
+				icons = {
+					{
+						icon = "__modifai__/images/icons/ingot-iron.png",
+						icon_size = 128,
+						icon_scale = 0.25
+					}
+				},
+				order = "iron",
+				orename = "iron"
 			}
 		)
 	}
 )
-			

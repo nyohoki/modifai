@@ -2,6 +2,14 @@ data:extend(
 	{
 		{
 			type = "item",
+			name = "bomb_ash",
+			icons = nyohoki_icon,
+			subgroup = nyomeds,
+			order = "bomb_ash",
+			stack_size = 100
+		},
+		{
+			type = "item",
 			name = "heavy_metal_plate",
 			icons = {
 				{
