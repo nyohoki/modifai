@@ -1,5 +1,6 @@
 data:extend(
 	{
+		--[[
 		{
 			type = "recipe",
 			name = "sulfur-2",
@@ -62,6 +63,7 @@ data:extend(
 				}
 			}
 		},
+		]]
 		{
 			type = "recipe",
 			name = "bomb_ash",
@@ -76,39 +78,14 @@ data:extend(
 				{
 					type = "item",
 					name = "coal",
-					amount = 2
+					amount = 1
 				}
 			},
 			results = {
 				{
 					type = "item",
 					name = "bomb_ash",
-					amount = 4
-				}
-			}
-		},
-		{
-			type = "recipe",
-			name = "ingot-copper",
-			icons = nyohoki_icon,
-			category = "smelting",
-			group = "intermediates",
-			subgroup = "",
-			order = "ingot-copper",
-			energy_required = 3,
-			enabled = true,
-			ingredients = {
-				{
-					type = "item",
-					name = "ore-copper",
-					amount = 3
-				}
-			},
-			results = {
-				{
-					type = "item",
-					name = "ingot-copper",
-					amount = 1
+					amount = 2
 				}
 			}
 		},
@@ -141,8 +118,7 @@ data:extend(
 					amount = 1
 				}
 			}
-		},
-			
+		}
 	}
 )
 recipe = {}
@@ -202,6 +178,20 @@ data:extend(
 				},
 				order = "copper",
 				orename = "copper"
+			}
+		),
+		recipe.ingot(
+			{
+				name = "darksteel",
+				icons = {
+					{
+						icon = "__modifai__/images/icons/ingot-darksteel.png",
+						icon_size = 128,
+						icon_scale = 0.25
+					}
+				},
+				order = "darksteel",
+				orename = "darksteel"
 			}
 		),
 		recipe.ingot(
