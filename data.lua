@@ -4,12 +4,14 @@ require("function")
 
 
 require("library.group")
+require("library.group-cardde")
 
 require("overrides.henkou")
 require("overrides.equipment")
 require("overrides.military")
 -- require("overrides.resource")
 
+require("library.cardian")
 require("library.items")
 require("library.recipes")
 require("library.sozai-gyokuei")
