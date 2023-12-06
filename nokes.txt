@@ -1,0 +1,701 @@
+ORE - xi
+adaman
+aluminium
+beryllium
+bismuth
+copper
+dark
+darksteel
+earth
+eschite
+fire
+gold
+hepatizon
+ice
+iron
+khroma
+koppranickel
+kunwu
+lead
+light
+lightning
+luminium
+midrium
+molybdenum
+mythril
+nioboium
+orichalcum
+palladian brass
+phrygian
+platnium
+ra'kaznar
+rhodium
+ruthenium
+silver
+snowsteel
+swamp
+thokcha
+tin
+titanium
+vanadium
+vulcanite
+water
+wind
+wootz
+
+INGOT - xi
+adaman
+aht urhgan brass
+aluminium
+aquesous orichalcum
+beryllium
+bewitched gold
+bismuth
+brass
+bronze
+copper
+damascus
+darksteel
+dark adaman
+durium
+dweomer steel
+electrum
+frigid orichalcum
+gold
+hepatizon
+imperial wootz
+indurated gold
+iridium
+iron
+light steel
+lucent iron
+lucent steel
+midrium
+moblumin
+molybdenum
+mythril
+neutralising silver
+niobium
+paktong
+oberon's gold
+orichalcum
+ormolu
+palladian brass
+penumbral brass
+phrygian gold
+platinum
+ra'kaznar
+rhodium
+rogeu's silver
+ruthenium
+scarletite
+scintillant
+silver
+spirit orichalcum
+steel
+thokcha
+titanium
+tin
+troll bronze
+vivio platinum
+wootz
+
+PLATE / SHEET - xi
+adaman
+aht urhgan brass
+aluminium
+bismuth
+blessed mythril
+brass
+bronze
+darksteel
+dark adaman
+durium
+glass
+gold
+grimy bronze
+iron
+kunwu
+lightweight steel
+midrium
+moblumin
+molybdenum
+mythril
+mythril mesh
+oberon's gold
+orichalcum
+palladian brass
+phrygian gold
+platinum
+rhodium
+silver
+snowsteel
+titanium
+troll bronze
+
+ORE - xiv
+adamantite
+aluminium
+approved grade 2 skybuilders' cobalt
+approved grade 2 skybuilders' darksteel
+approved grade 2 skybuilders' mythrite
+approved grade 2 skybuilders'
+approved grade 2 skybuilders' zinc
+approved grade 3 skybuilders' aurum regis
+approved grade 3 skybuilders' diadem iron
+approved grade 3 skybuilders' 
+approved grade 3 skybuilders' titanium
+approved grade 4 skybuilders' bluespirit
+approved grade 4 skybuidlers' electrum
+approved grade 4 skybuilders' gold
+approved grade 4 skybuilders' iron
+approved grade 4 skybuilders'
+aurum regis
+beggar's mythril
+beryllium
+bismuth
+bluespirit
+brashgold
+chromite
+cloud mythril
+cobalt
+connoisseur's aurum regis
+copper
+darksteel
+dimythrite
+doman iron
+electrum
+evergleam
+feather iron
+gold
+grade 2 skybuilders' cobalt
+grade 2 skybuilders' darksteel
+grade 2 skybuilders' mythrite
+grade 2 skybuilders'
+grade 2 skybuilders' zinc
+grade 3 skybuilders' aurum regis
+grade 3 skybuilders' diadem iron
+grade 3 skybuilders' 
+grade 3 skybuilders' titanium
+grade 4 skybuilders' bluespirit
+grade 4 skybuidlers' electrum
+grade 4 skybuilders' gold
+grade 4 skybuilders' iron
+grade 4 skybuilders'
+gyr abanian
+hardsilver
+high durium
+iron
+island copper
+island gold
+island iron
+island myhtril
+island silver
+island yellow copper
+kamacite
+koppranickel
+light kidney
+luminium
+lumythrite
+lunar adamantite
+manganese
+molybdenum
+mythril
+mythrite
+nightsteel
+nutrient-rich
+oddly delicate adamantite
+oddly delicate silvergrace
+oddly specific coerthan
+oddly specific iron
+oddly specific primordial
+oddly specific silver
+palladium
+peacock
+pewter
+phrygian
+platinum
+pure titanium
+rarefied bismuth
+rarefied bluespirit
+rarefied high durium
+rarefied pewter
+rarefied phrygian gold
+rarfied silvergrace
+rarefied titancopper
+rarefied tungsten
+silver
+silvergrace
+skybuilders' electrum
+skybuilders' harsilver
+skybuilders' iron
+skybuilders' molybdenum
+skybuilders' nightsteel
+skybuilders' truegold
+smithsonite
+softsilver
+splendid dense iron
+splendid iron
+steppe copper
+steppe iron
+tin
+titancopper
+titanium
+trona
+truegold
+tungsten
+ultramarine
+unidentifiable
+wootz
+yellow copper
+zeolite
+zinc
+
+INGOT - xiv
+adamantite
+aurum regis
+bismuth
+brass
+bronze
+chigusa
+chondrite
+chromite
+cloud mythril
+cobalt alloy
+cobalt
+copper
+darksteel
+deepgold
+duraluminium
+durium
+dwarven mythril
+eikon iron
+electrum
+evergleam
+gold
+grade 2 skybuilders'
+grade 3 skybuilders'
+grade 4 skybuilders'
+guild-forged
+hardsilver
+heavy metal
+high durium
+high mythrite
+high steel
+ilmenite
+iron
+ishgardian steel
+koppranickel
+lunar adamantite
+manganese
+molybedenum
+mythril
+mythrite
+nightsteel
+oddly specific iron
+oddly specific silver
+oroshigane
+palladium
+pewter
+phygian gold
+platinum
+prismatic
+rhodium
+rose gold
+scintillant
+select bismuth
+select duraluminium
+select manganese
+silver
+silvergrace
+skybuilders'
+skysteel
+softsilver
+solstice
+steel
+stonegold
+tama-hagane
+titanbronze
+titanium alloy
+titanium
+tungsten
+wolfram
+wootz
+
+SHEET / PLATE - xiv
+aetherially conductive plate
+brashgold plate
+brass plate
+bronze plate
+cobalt plate
+copper plate
+darksteel plate
+electrum plate
+garlean steel plate
+iron plate
+light steel plate
+mythril plate
+oddly specific mythril plate
+phonograph plate
+pure titanium plate
+select brashgold plate
+select cobalt plate
+select titanium plate
+silver plate
+steel plate
+
+RIVET - xiv
+adamantite
+brass
+bronze
+cobalt
+copper
+darksteel
+grade 2 skybuilders'
+grade 3 skybuilders'
+grade 4 skybuilders'
+iron
+mythril
+mythrite
+oddly specific
+silver
+skybuilders;
+steel
+titanium
+
+NAIL - xiv
+cobalt
+iron
+oddly specifc iron
+steel
+
+RING - xiv
+brass
+bronze
+cobalt
+copper
+darksteel
+electrum
+iron
+mythril
+oddly specific mythril
+silver
+steel
+
+MISC - xiv
+titanium carbide
+copper dust
+gold dust
+silver dust
+
+WIRE - xiv
+darksteel wire
+oddly specific wire
+reinforced darksteel wire
+
+GEAR / COG - xiv
+enigmatic gear
+oddly delicate silver gear
+calibrated rose gold cog
+formidable cog
+rose gold cog
+
+carde - xiv
+
+2b
+2p
+4th-make cuchulainn
+4th-make shemhazai
+9s
+adamantoise
+arammelech
+ahriman
+alexander prime
+alpha
+alphinaud & alisaie
+althyk
+amalj'aa
+amaro
+amon the undying
+ananta
+anden
+ango
+anima
+apkallu
+archaeornis
+archarotania
+archbishop thordan vii
+ardbert
+arenvald lentinus
+argath thadalfus
+asgos
+arkasodara
+armored weapon
+artoirel de fortemps
+asahi sas brutus
+athena
+aymeric
+azeyma
+azulmagia
+baderon tenfingers
+bahamut
+bandersnatch
+barbariccia
+bartz klauser
+batsquatch
+beatrice
+behemoth
+belladonna
+biggs & wedge
+bismarck
+blue dragon
+bomb
+brachiosaur
+brendt, brennan, & bremendt
+brute justice
+byakko
+byblos
+byregot
+cagnazzo
+calcabina
+calofisteri
+carvallain de gorgagne
+cecil harvey
+chapuli
+charibert
+chi
+chief keyward lahabrea
+chimera
+chocobo
+cig gardlond
+cirina
+clockwork onmyoji & clockwork yojimno
+cloud of darkness
+cloud strife
+coblyn
+coeurl
+coeurlregina
+colibri
+count edmont de fortemps
+crawler
+curator
+daivadipa
+darkscale
+dawon
+deepeye
+delivery moogle
+demon wall
+dhalmel
+diable armament
+diabolos hollow
+diamond weapon
+dodo
+dreamingway
+durante
+dvergr
+dwarf
+ea
+echidna
+eden's promise
+ehll tou
+ejika tsunjika
+elidibus
+emerald weapon
+emmanellain de fortemps
+endsinger
+endwalker alphinaud & alisaie
+enenra
+erichthonios
+eros
+estinien
+eulgia
+evil weapon
+f'lhaminn
+fat chocobo
+felicitous
+fenrir
+feo ul
+ferdiad
+firion
+flower basket
+fordola rem lupis
+forgiven obscenity
+formidable
+fourchenault leveilleur
+frixio
+fuath
+g-warrior
+gaelicat
+gaia
+gaius van baelsar
+gajasura
+gancanagh
+garuda
+genbu
+gerolt
+geryon the steer
+gibrillont
+gigantender
+gigi
+gilgamesh & enkidu
+gladiator of sil'dih
+gnath
+gnoll
+gobert manderville
+gogo, master of mimicry
+golbez
+gold saucer attendant
+goldor
+goobbue
+good king moggle mog xii
+gorai the uncaged
+gosetsu
+great azuro
+great gold whisker
+grenoldt
+griffin
+grynewaht
+guidance node
+hades
+halone
+hancock
+happy bunny
+hatamoto
+haurchefant
+heavensward thancred
+heavensward y'shtola
+hephaistos
+hermes
+hien
+hilda
+hildibrand & nashu mhakarazza
+hippo cart
+hiruko
+hisui & kurenai
+hoary builder & coultenet
+hobgoblin
+honoroit
+hraesvelgr
+hrodric poisontongue
+hauca
+hydaelyn
+hythlodaeus
+ifrit
+iguana
+innocence
+ixal
+jongleurs of eulmore
+julyan manderville
+kal myhk
+kan-e-senna
+karakuri hanya
+keeper of the keys
+ketuduke
+kobold
+koja
+kojun
+kotokaze
+kraken
+krile
+kuribu
+lahabrea
+lakshmi
+lala laniaitte de haillenarte
+lava scorpion
+leannan sith
+leviathan
+lightning
+liquid flame
+livia sas junius
+lizbeth
+llymlaen
+lolorito nanarito
+loporrit
+loquloqui
+lord and lady chai
+lost lamb
+louhi
+louisoix leveilleur
+lucia goe junius
+lugus
+lunar bahamut
+lunar ifrit
+lupin
+lyna
+lyse
+m'naago
+magitek colossus
+magitek death claw
+magitek gunship
+magitek predator
+magitek sky armor
+magitek vanguard
+magnai
+magus sisters
+mammoth
+mandragora
+manxome molaa ja ja
+matoya
+memeroon
+menphina
+merlwyb bloefhiswyn
+meteion
+midgardsormr
+minfilia
+mist dragon
+mistbeard
+moglin
+moko the restless
+momodi modi
+moogle morbol mossling
+mother miounne
+mother porxie
+mutamiz bubblypots
+muud suud
+n-7000
+neal van darnus
+nald
+namazu
+nanamo ul namo
+nero to scaeva
+nidhogg
+noctis lucis caelum
+nophica
+nu mou
+nymeia
+octomammoth
+odin
+okuri chochin
+omega
+onion knight
+opo-opo
+oracle of light
+oschon
+paissa
+papalymo & yda
+pazuzu
+panthesilea
+philia
+phlegethon
+phoebad
+phoenix
+pipin tarupin
+pisaca
+porogoo
+porxie
+progenitrix
+prometheus
+proto-carbuncle
+provenance watcher
+pudding
+qiqirn meateater
+qitari
+qitian dashend
+quintus van cinna
+rampart
+ramuh
+ran;jit
+rasho
+raubahn & pipin
+raubahn aldynn
+ravana

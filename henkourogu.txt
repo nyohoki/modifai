@@ -1,0 +1,8 @@
+Added Nightmare, sets the map to complete darkness. Optional turn on. Togglable. Needs work.
+Added Lux, gives optional adjustments for lamps and other light sources.
+Landfill recipes is now 10 stone.
+Added Dredger, place water tiles.
+Filter stack insters filter count is now 4, may not even matter.
+Added Aetherite. All modded and base ores will come from this. More developement required.
+Added cardian cards as signals.
+Added various adjustable settings for base items. Mostly military.

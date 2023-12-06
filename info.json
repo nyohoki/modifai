@@ -1,11 +1,11 @@
 {
 	"name": "modifai",
 	"version": "0.1.0",
-	"title": "モディファイ",
+	"title": "modifai",
 	"description": "Modifies the game Factorio",
 	"author": "nyohoki",
 	"contact": "nyohoki@gmail.com",
-	"homepage": "",
+	"homepage": "https://github.com/nyohoki/modifai",
 	"factorio_version": "1.1",
 	"dependencies": []
 }
