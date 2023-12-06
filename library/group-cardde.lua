@@ -1,88 +1,99 @@
-data:extend({
-	{
-		type = "item-group",
-		name = "cardian",
-		order = "nfc-g-2",
-		icon = "__nyohoki_modeifai__/images/groups/cardde.png",
-		icon_size = 2560,
-		icon_scale = 0.05,
-	},
+group = {}
+function group.card(cardde)
 	{
 		type = "item-subgroup",
-		name = card_1,
+		name = cardde.name,
 		group = "cardian",
-		order = "00",
-	},
-	{
-		type = "item-subgroup",
-		name = card_2,
-		group = "cardian",
-		order = "01",
-	},
-	{
-		type = "item-subgroup",
-		name = card_3,
-		group = "cardian",
-		order = "02",
-	},
-	{
-		type = "item-subgroup",
-		name = card_4,
-		group = "cardian",
-		order = "03",
-	},
-	{
-		type = "item-subgroup",
-		name = card_5,
-		group = "cardian",
-		order = "04",
-	},
-	{
-		type = "item-subgroup",
-		name = card_6,
-		group = "cardian",
-		order = "05",
-	},
-	{
-		type = "item-subgroup",
-		name = card_7,
-		group = "cardian",
-		order = "06",
-	},
-	{
-		type = "item-subgroup",
-		name = card_8,
-		group = "cardian",
-		order = "07",
-	},
-	{
-		type = "item-subgroup",
-		name = card_9,
-		group = "cardian",
-		order = "08",
-	},
-	{
-		type = "item-subgroup",
-		name = card_10,
-		group = "cardian",
-		order = "09",
-	},
-	{
-		type = "item-subgroup",
-		name = card_11,
-		group = "cardian",
-		order = "10",
-	},
-	{
-		type = "item-subgroup",
-		name = card_12,
-		group = "cardian",
-		order = "11",
-	},
-	{
-		type = "item-subgroup",
-		name = card_13,
-		group = "cardian",
-		order = "12",
+		order = carrde.order
 	}
-})
+end
+
+data:extend(
+	{
+		{
+			type = "item-group",
+			name = "cardian",
+			order = "nfc-g-2",
+			icon = "__modifai__/images/groups/cardde.png",
+			icon_size = 128
+		},
+		group.card(
+			{
+				name = "card-1",
+				order = "01"
+			}
+		),
+		group.card(
+			{
+				name = "card-2",
+				order = "02"
+			}
+		),
+		group.card(
+			{
+				name = "card-3",
+				order = "03"
+			}
+		),		
+		group.card(
+			{
+				name = "card-4",
+				order = "04"
+			}
+		),
+		group.card(
+			{
+				name = "card-5",
+				order = "05"
+			}
+		),
+		group.card(
+			{
+				name = "card-6",
+				order = "06"
+			}
+		),
+		group.card(
+			{
+				name = "card-7",
+				order = "07"
+			}
+		),
+		group.card(
+			{
+				name = "card-8",
+				order = "08"
+			}
+		),
+		group.card(
+			{
+				name = "card-09",
+				order = "09"
+			}
+		),
+		group.card(
+			{
+				name = "card-10",
+				order = "10"
+			}
+		),
+		group.card(
+			{
+				name = "card-11",
+				order = "11"
+			}
+		),
+		group.card(
+			{
+				name = "card-12",
+				order = "12"
+			}
+		),
+		group.card(
+			{
+				name = "card-13",
+				order = "13"
+			}
+		)
+	}
+)
