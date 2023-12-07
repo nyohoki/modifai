@@ -1,10 +1,11 @@
 group = {}
 function group.card(cardde)
+	return
 	{
 		type = "item-subgroup",
 		name = cardde.name,
 		group = "cardian",
-		order = carrde.order
+		order = cardde.order
 	}
 end
 
@@ -67,7 +68,7 @@ data:extend(
 		),
 		group.card(
 			{
-				name = "card-09",
+				name = "card-9",
 				order = "09"
 			}
 		),

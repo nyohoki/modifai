@@ -1,12 +1,12 @@
 signal = {}
 function signal.card(card)
-	-- return
+	return
 	{
 		type = "virtual-signal",
 		name = card.name,
 		icons = {
 			{
-				icons = "__modifai__/images/icons/"..card.name..".png",
+				icon = "__modifai__/images/icons/"..card.name..".png",
 				icon_size = 32
 			}
 		},

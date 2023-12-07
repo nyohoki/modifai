@@ -18,7 +18,7 @@ require("library.sozai-gyokuei")
 require("library.lux")
 require("library.dredger")
 require("library.seed-tree")
-
+require("library.dev.wire")
 -- require("library.ore-copper")
 -- require("library.ore-iron")
 
