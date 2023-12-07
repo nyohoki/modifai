@@ -17,6 +17,19 @@ end
 
 data:extend(
 	{
+		{
+			type = "virtual-signal",
+			name = "2b",
+			icons = {
+				{
+					icon = "__modifai__/images/icons/2b.png",
+					icon_size = 128,
+					scale = 0.25
+				}
+			},
+			subgroup = "card-1",
+			order = "2b"
+		},
 		signal.card(
 			{
 				name = "batons-1",
