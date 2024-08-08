@@ -1,0 +1,11 @@
+{
+	"name": "nyohoki_modifai",
+	"version": "1.0.0",
+	"title": "modifai",
+	"description": "Modifies Factorio",
+	"author": "nyohoki",
+	"contact": "nyohoki@gmail.com",
+	"homepage": "",
+	"factorio_version": "1.1",
+	"dependencies": []
+}
